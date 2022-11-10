@@ -1,0 +1,12 @@
+.block {
+    position: relative;
+    width: 530px;
+    height: 530px;
+    background-color: green;
+}
+.smallBlock {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
